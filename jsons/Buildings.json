@@ -1,0 +1,2400 @@
+[
+	//Faction identity wonders
+	{
+		"name": "Restored Temple of Zion",
+		"isWonder": true,
+		"uniqueTo": "Deseret2",
+		"cost": 0,
+		"faith": 1,
+		"culture": 1,
+		"happiness": 1,
+		"uniques": [
+			"[+25]% Natural religion spread [in all cities]",
+			"Provides [2] [Weapons]",
+			"[2] free [Battle-axe of the Lord] units appear",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Gain a free [Bishop's Storehouse] [in this city]"
+		],
+		"quote": "Zion is a place, and a state of being, that has been lost to us several times in the past. Each loss is a new fall of man. And after each fall, we weep in strange new lands and dream of Zion, dream of visiting vengeance upon those who took it from us.",
+		"civilopediaText": [
+			{
+				"text": "Zion is a place, and a state of being, that has been lost to us several times in the past. Each loss is a new fall of man. And after each fall, we weep in strange new lands and dream of Zion, dream of visiting vengeance upon those who took it from us."
+			}
+		]
+	},
+	{
+		"name": "Stone of Ages",
+		"uniqueTo": "Camelot Foundation",
+		"isWonder": true,
+		"culture": 1,
+		"happiness": 1,
+		"cost": 0,
+		"uniques": [
+			"[+6 Culture] [in this city] <after discovering [Flight]>",
+			"[+10]% Production when constructing [All] units [in this city]",
+			"[2] free [Knight] units appear",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Gain a free [Sangreal Vault] [in this city]",
+			"Gain a free [Riding Arena] [in this city]"
+		],
+		"quote": "Legends cannot die. They live forever on the edge of dreams, inspiring dreamers to pursue greatness. Every so often, an exceptionally virtuous dreamer with all the necessary qualities to attain greatness comes along, pushing their people to new heights or rescuing them from abysmal depths. And so they too shall become legendary.",
+		"civilopediaText": [
+			{
+				"text": "Legends cannot die. They live forever on the edge of dreams, inspiring dreamers to pursue greatness. Every so often, an exceptionally virtuous dreamer with all the necessary qualities to attain greatness comes along, pushing their people to new heights or rescuing them from abysmal depths. And so they too shall become legendary."
+			}
+		]
+	},
+	{
+		"name": "State Dacha",
+		"uniqueTo": "The Harbingers",
+		"food": 2,
+		"culture": 2,
+		"cost": 0,
+		"isWonder": true,
+		"uniques": [
+			"[-25]% Unhappiness from [Population] [in this city]",
+			"Free [Educator Officer] appears",
+			"Free [Vengerovsky] appears",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Gain a free [Food Store] [in this city]",
+			"Gain a free [Harbinger Manege] [in this city]"
+		],
+		"quote": "They say this was where they found the last oligarch, hiding far from the ruins of our old civilization. Hiding from those who survived the apocalypse he helped bring upon us. We gave him up to our enemies to face justice... a peace offering that meant absolutely nothing.",
+		"civilopediaText": [
+			{
+				"text": "They say this was where they found the last oligarch, hiding far from the ruins of our old civilization. Hiding from those who survived the apocalypse he helped bring upon us. We gave him up to our enemies to face justice... a peace offering that meant absolutely nothing."
+			}
+		]
+	},
+	{
+		"name": "Red Square",
+		"isWonder": true,
+		"uniqueTo": "Crimson Line",
+		"culture": 2,
+		"cost": 0,
+		"uniques": [
+			"[+1 Happiness] [in all cities connected to capital]",
+			"Free [Commissar] appears",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Gain a free [Food Store] [in this city]",
+			"Gain a free [Armory Station] [in this city]"
+		],
+		"quote": "Once, these mighty cultural monuments stood as a symbol of our power. Now their ruins remain only to serve as a reminder of our decay."
+	},
+	{
+		"name": "Plumed Serpent Pyramid",
+		"uniqueTo": "Aztlán",
+		"isWonder": true,
+		"culture": 1,
+		"cost": 0,
+		"uniques": [
+			"[2] free [Jaguar] units appear",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Gain a free [Calpulli] [in this city]"
+		]
+	},
+	{
+		"name": "Burj al-Shuhada",
+		"uniqueTo": "The Caliphate",
+		"isWonder": true,
+		"culture": 1,
+		"cost": 0,
+		"uniques": [
+			"[4] units cost no maintenance",
+			"[+4] Unit Supply",
+			"Free [Mutawa] appears",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Gain a free [Food Store] [in this city]"
+		],
+		"quote": "'We must stick together and hold our peace until the time comes. You can't see anything yet, but everything is being prepared in secret. You must hold yourself in readiness for the right moment.' - Pre-Cataclysm sermon in Bavaria"
+	},
+	{
+		"name": "Aurelia Office Tower",
+		"isWonder": true,
+		"uniqueTo": "Aurelian Group",
+		"production": 1,
+		"gold": 1,
+		"cost": 0,
+		"uniques": [
+			"[+10]% Production when constructing [Personnel] units [in this city]",
+			"Provides [2] [Weapons]",
+			"Free [Digger] appears",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Gain a free [Dugout] [in this city]"
+		]
+	},
+	{
+		"name": "Constitution Hall",
+		"isWonder": true,
+		"uniqueTo": "The Oathsworn",
+		"culture": 1,
+		"cost": 0,
+		"uniques": [
+			"[+1 Happiness] <in cities with at least [2] [Specialists]>",
+			"Provides [2] [Weapons]",
+			"Free [Constitutional Militia] appears",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Gain a free [Monument] [in this city]"
+		],
+		"quote": "'We hold these truths to be self-evident: that all men are created equal; that they are endowed by their Creator with certain unalienable Rights; that among these are Life, Liberty and the pursuit of Happiness.' - Thomas Jefferson",
+		"civilopediaText": [
+			{
+				"text": "'We hold these truths to be self-evident: that all men are created equal; that they are endowed by their Creator with certain unalienable Rights; that among these are Life, Liberty and the pursuit of Happiness.' - Thomas Jefferson"
+			}
+		]
+	},
+	{
+		"name": "Zamość Fortress",
+		"isWonder": true,
+		"uniqueTo": "Nowa Polska",
+		"culture": 1,
+		"production": 1,
+		"cityStrength": 5,
+		"cityHealth": 60,
+		"cost": 0,
+		"uniques": [
+			"[+2] Unit Supply per city",
+			"Provides [2] [Weapons]",
+			"[2] free [Kosynier] units appear",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Gain a free [Food Store] [in this city]",
+			"Gain a free [Stadnina Koni] [in this city]"
+		]
+	},
+	{
+		"name": "Yánluó Palace",
+		"uniqueTo": "Celestial Collective",
+		"isWonder": true,
+		"culture": 1,
+		"cost": 0,
+		"uniques": [
+			"[+1] Unit Supply per [2] population [in all cities]",
+			"Provides [2] [Weapons]",
+			"Free [Pure Thought Agent] appears",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Gain a free [Food Store] [in this city]",
+			"Gain a free [Shrine of the Honorful Dead] [in this city]"
+		],
+		"quote": "'Learn to overcome the crass demands of flesh and bone, for they warp the matrix through which we perceive the world. Extend your awareness outwards, beyond the self of body, to embrace the self of group and the self of humanity. The goals of the group and the greater race are transcendent, and to embrace them is to achieve enlightenment.' - Sheng-ji Yang, 'Essays on Mind and Matter'"
+	},
+
+	//Government buildings
+	{
+		"name": "General Conference",
+		"replaces": "Congress",
+		"uniqueTo": "Deseret2",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Culture, +1 Faith] per [4] population [in all cities]",
+			"[-10]% Unhappiness from [Followers of the Majority Religion] [in cities following our religion]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Quorum of the Twelve]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Quorum of the Twelve",
+		"replaces": "Council",
+		"uniqueTo": "Deseret2",
+		"percentStatBonus": {"faith": 10},
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+10]% growth [in all cities]",
+			"[+2 Production] from every [Sacred Cave]",
+			"[+2 Production] from every [Tabernacle]",
+			"[+2 Production] from every [Virtual Tabernacle]",
+			"[+2 Production] from every [Worship Center]",
+			"[+2 Science, +2 Culture] from every [Great Improvement]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [General Conference]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "The Round Table",
+		"replaces": "Congress",
+		"uniqueTo": "Camelot Foundation",
+		"cost": 150,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+10]% growth [in all cities]",
+			"[+1 Culture, +1 Science] per [4] population [in all cities]",
+			"[-10]% Unhappiness from [Population] [in all cities]",
+			"[+5]% [Production] [in all cities connected to capital]",
+			"[+10]% [Gold] [in all cities connected to capital]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Destroyed when the city is captured"
+		],
+		"civilopediaText": [
+			{
+				"text": "'Freedom of choice is important to many of my people. I have to refrain from exercising power whenever possible, even if I want to.' - Arthur"
+			}
+		]
+	},
+	{
+		"name": "Camelot Foundation has no Council",
+		"replaces": "Council",
+		"uniqueTo": "Camelot Foundation",
+		"uniques": ["Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Water Forum",
+		"replaces": "Congress",
+		"uniqueTo": "The Harbingers",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Gold, +1 Culture] per [4] population [in all cities]",
+			"[-10]% Unhappiness from [Population] [in all cities]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Water Council]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Water Council",
+		"replaces": "Council",
+		"uniqueTo": "The Harbingers",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Production to [Gold] conversion in cities changed by [33]%",
+			"[+10]% growth [in all cities]",
+			"[+5]% Production when constructing [All] buildings [in all cities connected to capital]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Water Forum]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Central Metro Command",
+		"replaces": "Council",
+		"uniqueTo": "Crimson Line",
+		"cityHealth": 100,
+		"cost": 150,
+		"uniques": [
+			"[+10]% growth [in all cities]",
+			"[+1 Production, +1 Culture] per [4] population [in all cities]",
+			"[+5]% Production when constructing [All] buildings [in all cities connected to capital]",
+			"[+10]% Production when constructing [{Military} {Land}] units [in all cities connected to capital]",
+			"Gain [300] [Gold] <upon conquering a city> <(modified by game speed)>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Crimson Line has no Congress",
+		"replaces": "Congress",
+		"uniqueTo": "Crimson Line",
+		"uniques": ["Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Congress of the Alliance",
+		"replaces": "Congress",
+		"uniqueTo": "Aztlán",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Culture] per [4] population [in all cities]",
+			"[-10]% Unhappiness from [Population] [in all cities]",
+			"Gifts of Gold to City-States generate [25]% more Influence",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Council of Four]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Council of Four",
+		"replaces": "Council",
+		"uniqueTo": "Aztlán",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+10]% growth [in all cities]",
+			"[+5]% Production when constructing [All] buildings [in this city]",
+			"[+10]% Strength <for [Land] units> <when fighting in [Enemy Land] tiles>",
+			"City-State Influence recovers at twice the normal rate",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Congress of the Alliance]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Consultative Assembly",
+		"replaces": "Congress",
+		"uniqueTo": "The Caliphate",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Production, +1 Faith] per [4] population [in all cities]",
+			"[-10]% Unhappiness from [Followers of the Majority Religion] [in cities following our religion]",
+			"Only available <if [Revert Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Allegiance Council]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Allegiance Council",
+		"replaces": "Council",
+		"uniqueTo": "The Caliphate",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+10]% growth [in all cities]",
+			"[+10]% Production when constructing [Military] units [in all cities]",
+			"May buy [Enslaved] units with [Faith] for [2] times their normal Production cost",
+			"May buy [Mounted] units with [Faith] for [2] times their normal Production cost",
+			"Only available <if [Revert Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Consultative Assembly]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Trades Hall",
+		"replaces": "Congress",
+		"uniqueTo": "Aurelian Group",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Gold, +1 Culture] per [4] population [in all cities]",
+			"[-10]% Unhappiness from [Population] [in all cities]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Minerals Council]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Minerals Council",
+		"replaces": "Council",
+		"uniqueTo": "Aurelian Group",
+		"cost": 150,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+5]% Production when constructing [All] buildings [in all cities]",
+			"[+10]% [Production] from every [School of Mines]",
+			"[+100]% [Coal] resource production",
+			"[+100]% [Aluminum] resource production",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Trades Hall]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Continental Congress",
+		"uniqueTo": "The Oathsworn",
+		"replaces": "Congress",
+		"cost": 150,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Culture, +1 Gold] per [4] population [in all cities]",
+			"[-10]% Unhappiness from [Population] [in all cities]",
+			"[+5]% Production when constructing [All] buildings [in all cities]",
+			"[+10]% Production when constructing [All] units [in all cities]",
+			"Gain [15] Influence with a [Military] gift to a City-State",
+			"Only available <if [Rally Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Oathsworn cannot build Council",
+		"uniqueTo": "The Oathsworn",
+		"uniques": ["Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Sejm",
+		"replaces": "Congress",
+		"uniqueTo": "Nowa Polska",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Culture] per [4] population [in all cities]",
+			"[-10]% Unhappiness from [Population] [in all cities]",
+			"[+1 Gold] from all [{non-[Wonder]} {Gold}] buildings",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Rada Ocalenia]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Rada Ocalenia",
+		"replaces": "Council",
+		"uniqueTo": "Nowa Polska",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+10]% growth [in all cities]",
+			"[+5]% Production when constructing [All] buildings [in all cities connected to capital]",
+			"[+30]% Strength decreasing with distance from the capital",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Sejm]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Core of the Collective",
+		"replaces": "Council",
+		"uniqueTo": "Celestial Collective",
+		"cost": 150,
+		"hurryCostModifier": 25,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+10]% growth [in all cities connected to capital]",
+			"[+5]% [Production] [in all cities connected to capital]",
+			"[+50]% Natural religion spread [in all cities connected to capital]",
+			"[-15]% enemy spy effectiveness [in all cities connected to capital]",
+			"[+2 Production, +4 Faith] from every [Citadel]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Celestial Collective cannot build Congress",
+		"replaces": "Congress",
+		"uniqueTo": "Celestial Collective",
+		"uniques": ["Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"]
+	},
+
+	//Deseret Nation unique buildings
+	{
+		"name": "Bishop's Storehouse",
+		"replaces": "Food Store",
+		"uniqueTo": "Deseret2",
+		"cost": 10,
+		"hurryCostModifier": -25,
+		"uniques": [
+			"[20]% Food is carried over after population increases [in this city]",
+			"[+1 Food] [in this city] <with [Salt]>",
+			"[+1 Food] from [Grain] tiles [in this city] <in [Desert] tiles>",
+			"[+1 Culture, +1 Faith] [in this city] <with [Scriptures]>",
+			"[-1 Production, -1 Faith] [in this city] <with [Alcohol]>",
+			"[-1 Production, -1 Faith] [in this city] <with [Narcotics]>",
+			"[-1 Production, -1 Faith] [in this city] <with [Refined Narcotics]>"
+		]
+	},
+	{
+		"name": "Sacred Cave",
+		"replaces": "Shrine",
+		"uniqueTo": "Deseret2",
+		"cityHealth": 50,
+		"culture": 1,
+		"faith": 1,
+		"cost": 40,
+		"requiredTech": "Secrets of the Past",
+		"uniques": [
+			"Only available <when religion is enabled>",
+			"[+2 Culture, +2 Faith] from [Natural Wonder] tiles [in this city]"
+		]
+	},
+	{
+		"name": "Disciplinary Council",
+		"replaces": "Prison Camp",
+		"uniqueTo": "Deseret2",
+		"faith": 1,
+		"happiness": 1,
+		"maintenance": 1,
+		"uniques": [
+			"[+25]% Natural religion spread [in this city]",
+			"Removes extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>",
+			"Only available <in cities without a [Listening Post]>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Construction",
+		"hurryCostModifier": -50
+	},
+	{
+		"name": "Relief Society",
+		"replaces": "Work Camp",
+		"uniqueTo": "Deseret2",
+		"percentStatBonus": {"food": 5, "faith": 15},
+		"food": 1,
+		"faith": 1,
+		"happiness": 1,
+		"specialistSlots": {"Administrator": 1},
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": [
+			"[+1] population [in this city]",
+			"[+1 Food, +1 Faith] from every [Administrator] <in this city>",
+			"[+1 Happiness] [in this city] <after adopting [Voting Rights]>",
+			"Consumes [1] [Slaves]",
+			"Only available <with [Slaves]>",
+			"Unsellable"
+		],
+		"requiredTech": "Education",
+		"civilopediaText": [
+			{
+				"text": "'Charity never faileth.' - The Holy Bible, 1 Corinthians 13:8"
+			}
+		]
+	},
+	{
+		"name": "Mission to Isolationists",
+		"uniqueTo": "Deseret2",
+		"isNationalWonder": true,
+		"requiredTech": "Education",
+		"cost": 200,
+		"faith": 2,
+		"culture": 2,
+		"uniques": [
+			"Must have an owned [Isolated Island] within [3] tiles",
+			"[+2 Food, +3 Culture, +3 Faith] from [Isolated Island] tiles [in this city]",
+			"Provides [2] [Weapons]"
+		]
+	},
+	{
+		"name": "Printing Press",
+		"replaces": "Distillery",
+		"uniqueTo": "Deseret2",
+		"science": 2,
+		"happiness": 2,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Scriptures]"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Brigham Young University",
+		"replaces": "National College",
+		"uniqueTo": "Deseret2",
+		"science": 3,
+		"culture": 1,
+		"cost": 125,
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 50},
+		"uniques": [
+			"Shown while unbuilable",
+			"Unbuildable",
+			"Can be purchased for [450] [Gold] [in all cities]",
+			"Can be purchased for [390] [Faith] [in all cities]",
+			"Only available <if [Library] is constructed in all [non-[Puppeted]] cities>",
+			"[+25]% Production when constructing [Science] buildings [in all cities]",
+			"[+2 Faith] from every [University]"
+		],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Tabernacle",
+		"replaces": "Monastery",
+		"uniqueTo": "Deseret2",
+		"culture": 2,
+		"faith": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Education",
+		"uniques": [
+			"Only available <in cities with a [Shrine]>",
+			"Only available <when religion is enabled>"
+		]
+	},
+	{
+		"name": "Grand Tabernacle",
+		"replaces": "Grand Monastery",
+		"uniqueTo": "Deseret2",
+		"isNationalWonder": true,
+		"culture": 1,
+		"faith": 8,
+		"cost": 125,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Only available <if [Tabernacle] is constructed in all [non-[Puppeted]] cities>",
+			"Cost increases by [30] per owned city",
+			"Can only be built <in [Holy] cities>",
+			"Only available <after adopting [Theocracy]>",
+			"Only available <when religion is enabled>",
+			"All newly-trained [Deseret Missionary] units [in this city] receive the [Devout] promotion",
+			"All newly-trained [Living Prophet] units [in this city] receive the [Devout] promotion",
+			"Creates a [Endowment House] improvement on a specific tile",
+			"[+1 Food, +2 Gold, +2 Culture] from every [Endowment House]"
+		]
+	},
+	{
+		"name": "Virtual Tabernacle",
+		"replaces": "Megachurch",
+		"uniqueTo": "Deseret2",
+		"culture": 3,
+		"faith": 3,
+		"percentStatBonus": {"culture": 10, "faith": 10},
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Social Engineering",
+		"uniques": [
+			"[+100]% Natural religion spread [in this city] <when above [-2] [Power]>",
+			"Consumes [1] [Power]",
+			"Only available <in cities with a [Tabernacle]>",
+			"Only available <when religion is enabled>"
+		]
+	},
+	{
+		"name": "Deseret Nation cannot Ally with Isolationists",
+		"replaces": "Ally with Isolationists",
+		"uniqueTo": "Deseret2",
+		"uniques": ["Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Deseret Nation cannot Annex Isolationists",
+		"replaces": "Annex Isolationists",
+		"uniqueTo": "Deseret2",
+		"uniques": ["Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"]
+	},
+
+	//Camelot unique buildings
+	{
+		"name": "PINDAR Station",
+		"isNationalWonder": true,
+		"uniqueTo": "Camelot Foundation",
+		"replaces": "Bomb Shelter",
+		"food": 2,
+		"production": 3,
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cost": 1,
+		"uniques": [
+			"Indicates the capital city",
+			"Population loss from nuclear attacks [-25]% [in this city]",
+			"Damage to garrison from nuclear attacks [-25]% [in this city]",
+			"Gain a free [Food Store] [in this city]"
+		]
+	},
+	{
+		"name": "Sangreal Vault",
+		"replaces": "Shrine",
+		"uniqueTo": "Camelot Foundation",
+		"science": 2,
+		"faith": 1,
+		"cost": 40,
+		"requiredTech": "Secrets of the Past",
+		"uniques": [
+			"Only available <when religion is enabled>",
+			"[+1 Culture, +1 Faith] [in this city] <with [Artifacts]>"
+		]
+	},
+	{
+		"name": "Riding Arena",
+		"replaces": "Stable",
+		"uniqueTo": "Camelot Foundation",
+		"requiredNearbyImprovedResources": ["Horses"],
+		"culture": 2,
+		"happiness": 2,
+		"cost": 50,
+		"hurryCostModifier": -25,
+		"uniques": [
+			"New [Mounted] units start with [15] XP [in this city]",
+			"[+1 Production, +1 Culture] from [Horses] tiles [in this city]"
+		],
+		"requiredTech": "Redomestication"
+	},
+	{
+		"name": "Constabulary",
+		"replaces": "Prison Camp",
+		"uniqueTo": "Camelot Foundation",
+		"maintenance": 1,
+		"uniques": [
+			"[-25]% enemy spy effectiveness [in this city]",
+			"Removes extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>",
+			"Only available <in cities without a [Listening Post]>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Construction",
+		"hurryCostModifier": -50
+	},
+	{
+		"name": "Parish School",
+		"replaces": "Work Camp",
+		"uniqueTo": "Camelot Foundation",
+		"specialistSlots": {"Scientist": 1},
+		"science": 2,
+		"faith": 2,
+		"happiness": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": [
+			"[+1] population [in this city]",
+			"[+2 Faith] from every [Scientist] <in this city>",
+			"[+1 Happiness] [in this city] <after adopting [Voting Rights]>",
+			"Consumes [1] [Slaves]",
+			"Only available <with [Slaves]>",
+			"Unsellable"
+		],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Abbey",
+		"replaces": "Monastery",
+		"uniqueTo": "Camelot Foundation",
+		"faith": 2,
+		"gold": 2,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"requiredTech": "Education",
+		"uniques": [
+			"Only available <in cities with a [Shrine]>",
+			"Only available <when religion is enabled>"
+		]
+	},
+
+	//Harbinger unique buildings
+	{
+		"name": "Contract with Survivors",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "The Harbingers",
+		"cost": 30,
+		"isNationalWonder": true,
+		"uniques": ["Free [Siberian Convoy] appears", "Free [Civilian Convoy] appears"]
+	},
+	{
+		"name": "Harbinger Manege",
+		"replaces": "Stable",
+		"uniqueTo": "The Harbingers",
+		"requiredNearbyImprovedResources": ["Horses"],
+		"gold": 2,
+		"cost": 50,
+		"hurryCostModifier": -25,
+		"uniques": ["[+1 Production, +1 Gold] from [Horses] tiles [in this city]"],
+		"requiredTech": "Redomestication"
+	},
+	{
+		"name": "Gostiny Dvor",
+		"replaces": "Market",
+		"uniqueTo": "The Harbingers",
+		"cityStrength": 2,
+		"cityHealth": 50,
+		"gold": 3,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"requiredTech": "Trade",
+		"uniques": [
+			"[+1 Gold] from [Luxury resource] tiles [in this city]",
+			"[+1 Gold] from [Fresh water] tiles [in this city]"
+		]
+	},
+	{
+		"name": "Vodka Brewery",
+		"replaces": "Distillery",
+		"uniqueTo": "The Harbingers",
+		"requiredNearbyImprovedResources": ["Grain", "Tubers"],
+		"happiness": 3,
+		"maintenance": 2,
+		"uniques": ["Provides [1] [Alcohol]"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Chemistry"
+	},
+	{
+		"name": "Pogost",
+		"replaces": "Town Hall",
+		"uniqueTo": "The Harbingers",
+		"gold": 2,
+		"culture": 2,
+		"specialistSlots": {"Administrator": 1},
+		"uniques": [
+			"[+1 Gold] from each Trade Route",
+			"[+2 Gold] from [Wasteland Station] tiles [in this city]",
+			"[-25]% Culture cost of natural border growth [in this city]",
+			"[-25]% Gold cost of acquiring tiles [in this city]",
+			"[+1 Happiness, +1 Gold, +1 Faith] [in this city] <when above [0] [Power]>"
+		],
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Census Chamber",
+		"replaces": "Listening Post",
+		"uniqueTo": "The Harbingers",
+		"happiness": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[-25]% enemy spy effectiveness [in this city]",
+			"Removes extra unhappiness from annexed cities",
+			"Provides [1] [Encrypted Data]",
+			"Only available <in cities without a [Prison Camp]>",
+			"Destroyed when the city is captured",
+			"Only available <when espionage is enabled>"
+		],
+		"requiredTech": "Radio"
+	},
+	{
+		"name": "Austere Processing Hub",
+		"replaces": "Ground Control Center",
+		"uniqueTo": "The Harbingers",
+		"isNationalWonder": true,
+		"cityStrength": 10,
+		"science": 5,
+		"culture": 3,
+		"percentStatBonus": {"science": 10},
+		"cost": 400,
+		"uniques": [
+			"[Personnel] units gain the [Drone Recon] promotion",
+			"[+10]% Strength <for [Automated] units>",
+			"[+100]% [Encrypted Data] resource production",
+			"Consumes [1] [Power]",
+			"Cost increases by [30] per owned city"
+		],
+		"requiredTech": "Networking"
+	},
+	{
+		"name": "Interstice",
+		"uniqueTo": "The Harbingers",
+		"replaces": "Transport Network",
+		"maintenance": 2,
+		"requiredTech": "Incentivization",
+		"uniques": [
+			"[+1 Food, +1 Production] from [Urban area] tiles [in this city]",
+			"[+2 Food, +2 Production] from [Borough] tiles [in this city]",
+			"[+2 Production] from [Railroad] tiles [in this city]",
+			"Consumes [1] [Power]"
+		]
+	},
+
+	//Crimson Line unique buildings
+	{
+		"name": "Fortified Museum",
+		"replaces": "Museum",
+		"uniqueTo": "Crimson Line",
+		"culture": 1,
+		"science": 1,
+		"percentStatBonus": {"culture": 10},
+		"cityHealth": 50,
+		"requiredNearbyImprovedResources": ["Artifacts", "Electronics"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Record Keeping",
+		"uniques": [
+			"[+1 Culture, +1 Science] from [Artifacts] tiles [in this city]",
+			"[+1 Culture, +1 Science] from [Electronics] tiles [in this city]",
+			"[+2 Culture] [in this city] <after discovering [Railroads]>"
+		]
+	},
+	{
+		"name": "Armory Station",
+		"replaces": "Armory",
+		"uniqueTo": "Crimson Line",
+		"cityHealth": 50,
+		"uniques": [
+			"Provides [1] [Weapons]",
+			"New [Military] units start with [15] XP [in this city]",
+			"[+1 Production] from [Weapons] tiles [in this city]",
+			"[+2 Production] [in this city] <after discovering [Railroads]>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Hoplology"
+	},
+	{
+		"name": "Gupvi",
+		"replaces": "Prison Camp",
+		"uniqueTo": "Crimson Line",
+		"hurryCostModifier": 25,
+		"production": 2,
+		"happiness": -2,
+		"uniques": [
+			"Removes extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>",
+			"Provides [2] [Slaves]",
+			"Provides [2] [Slaves] <after adopting [Collectivism Complete]>",
+			"Only available <in cities without a [Listening Post]>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Katorga Labor Camp",
+		"replaces": "Work Camp",
+		"uniqueTo": "Crimson Line",
+		"production": 2,
+		"happiness": -2,
+		"percentStatBonus": {"production": 10},
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": [
+			"[+2 Production] [in this city] <when above [0] [Power]>",
+			"Consumes [1] [Slaves]",
+			"Only available <with [Slaves]>"
+		],
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Pioneers Station",
+		"replaces": "Public School",
+		"uniqueTo": "Crimson Line",
+		"cityHealth": 50,
+		"science": 3,
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": [
+			
+			"[+1 Science] per [2] social policies adopted <after adopting [Collectivism Complete]>",
+			"Only available <in cities with a [Library]>"
+		],
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Sealed Facility",
+		"replaces": "Bunker",
+		"uniqueTo": "Crimson Line",
+		"cityHealth": 120,
+		"food": 5,
+		"maintenance": 1,
+		"hurryCostModifier": 50,
+		"requiredBuilding": "Hardened Defenses",
+		"uniques": [
+			"Population loss from nuclear attacks [-75]% [in this city]",
+			"Damage to garrison from nuclear attacks [-75]% [in this city]",
+			"New [Military] units start with [15] XP [in this city]",
+			"[+4 Production] from [Mountain] tiles [in this city]",
+			"[+4 Production] from [Mountain Tunnel] tiles [in this city]",
+			"Destroyed when the city is captured",
+			"Only available <when nuclear weapons are enabled> <hidden from users>"
+		],
+		"requiredTech": "Munitions"
+	},
+
+	//Aztlán unique buildings
+	{
+		"name": "Temalacatl",
+		"replaces": "Monument",
+		"uniqueTo": "Aztlán",
+		"culture": 2,
+		"cost": 40,
+		"maintenance": 0,
+		"uniques": ["New [Low Tech] units start with [15] XP [in this city]"]
+	},
+	{
+		"name": "Momoztli",
+		"replaces": "Shrine",
+		"uniqueTo": "Aztlán",
+		"faith": 1,
+		"happiness": 1,
+		"cost": 40,
+		"requiredTech": "Secrets of the Past",
+		"uniques": [
+			"Only available <when religion is enabled>",
+			"[+1 Happiness] [in this city] <when at war>"
+		]
+	},
+	{
+		"name": "Calpulli",
+		"replaces": "Barracks",
+		"uniqueTo": "Aztlán",
+		"food": 1,
+		"production": 1,
+		"cost": 50,
+		"maintenance": 1,
+		"uniques": [
+			"[+5]% growth [in this city]",
+			"New [Military] units start with [15] XP [in this city]",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Amoxcalli",
+		"replaces": "Library",
+		"uniqueTo": "Aztlán",
+		"hurryCostModifier": 25,
+		"requiredTech": "Writing",
+		"uniques": [
+			"[+1 Science] per [3] population [in this city]",
+			"[+2 Science] from [Books] tiles [in this city]",
+			"Gain [2]-[5] [Science] <upon gaining a [Low Tech] unit> <(modified by game speed)>",
+			"Only available <in cities with a [Calpulli]>"
+		]
+	},
+	{
+		"name": "Chinampa",
+		"replaces": "Greenhouse",
+		"uniqueTo": "Aztlán",
+		"food": 2,
+		"specialistSlots": {"Farmer": 1},
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Botany",
+		"uniques": [
+			"[+1 Food] from [Grain] tiles [in this city]",
+			"[+1 Food] from [Tubers] tiles [in this city]",
+			"[+1 Food] from [Cactus] tiles [in this city]",
+			"[+1 Food] from [{Fresh water} {Farm}] tiles [in this city]",
+			"[+1 Food] [in this city] <with [Exotic Seeds]>",
+			"Only available <in cities with a [Calpulli]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Tiyanquitzli",
+		"replaces": "Market",
+		"uniqueTo": "Aztlán",
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"requiredTech": "Trade",
+		"uniques": [
+			"[+1 Gold] from [Luxury resource] tiles [in this city]",
+			"[+1 Gold] per [4] social policies adopted",
+			"Only available <in cities with a [Calpulli]>"
+		]
+	},
+	{
+        "name": "Tlachtli",
+        "replaces": "Stadium",
+        "uniqueTo": "Aztlán",
+        "culture": 2,
+        "happiness": 2,
+        "maintenance": 1,
+        "cost": 90,
+        "hurryCostModifier": 25,
+        "requiredTech": "Engineering",
+		"uniques": [
+			"[+2 Culture, +2 Happiness] [in this city] <after discovering [Social Engineering]>",
+			"Destroyed when the city is captured"
+		]
+    },
+	{
+		"name": "Teocalli",
+		"replaces": "Monastery",
+		"uniqueTo": "Aztlán",
+		"faith": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Education",
+		"uniques": [
+			"Only available <in cities with a [Momoztli]>",
+			"Only available <when religion is enabled>",
+			"Destroyed when the city is captured",
+			"[+1 Faith] [in this city] <for every [Completed Policy branches]>"
+		]
+	},
+	{
+		"name": "Calmecac",
+		"replaces": "University",
+		"uniqueTo": "Aztlán",
+		"maintenance": 1,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 1},
+		"uniques": [
+			"[+1 Science] from [Jungle] tiles [in this city]",
+			"[+1 Science] from [Forest] tiles [in this city]",
+			"[+1 Science] from [Sunken Ruins] tiles [in this city]",
+			"[+25]% Great Person generation [in this city]",
+			"New [{Military} {Land}] units start with [15] XP [in this city]",
+			"Only available <in cities with a [Amoxcalli]>"
+		],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Telpochcalli",
+		"replaces": "Public School",
+		"uniqueTo": "Aztlán",
+		"culture": 2,
+		"science": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[+1 Science] per [2] population [in this city] <after discovering [Networking]>",
+			"[+15]% Production when constructing [Land] units [in this city]",
+			"Only available <in cities with a [Amoxcalli]>"
+		],
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Cabildo",
+		"replaces": "Town Hall",
+		"uniqueTo": "Aztlán",
+		"culture": 2,
+		"specialistSlots": {"Administrator": 1},
+		"maintenance": 1,
+		"uniques": [
+			"[-25]% Culture cost of natural border growth [in this city]",
+			"[-25]% Gold cost of acquiring tiles [in this city]",
+			"[+1 Culture] per [6] social policies adopted <when above [0] [Power]>",
+			"[+1 Happiness] [in this city] <when above [0] [Power]>"
+		],
+		"hurryCostModifier": 25,
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Nuevo Templo Mayor",
+		"replaces": "Grand Monastery",
+		"uniqueTo": "Aztlán",
+		"isNationalWonder": true,
+		"culture": 3,
+		"faith": 8,
+		"cost": 125,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Only available <if [Teocalli] is constructed in all [non-[Puppeted]] cities>",
+			"Cost increases by [30] per owned city",
+			"Can only be built <in [Holy] cities>",
+			"Only available <after adopting [Theocracy]>",
+			"Only available <when religion is enabled>",
+			"All newly-trained [Philosopher] units [in this city] receive the [Devout] promotion",
+			"All newly-trained [Great Sage] units [in this city] receive the [Devout] promotion",
+			"[+2 Culture] from [Lakes] tiles [in all cities]",
+			"Gain [100] [Culture] <upon expending a [Great Person] unit> <(modified by game speed)>"
+		]
+	},
+
+	//Caliphate unique buildings
+	{
+		"name": "Revert Survivors",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "The Caliphate",
+		"cost": 25,
+		"isNationalWonder": true,
+		"uniques": [
+			"[+50]% Production when constructing [Civilian] units [in this city]",
+			"Provides [4] [Slaves]",
+			"Free [Janissary] appears"
+		]
+	},
+	{
+		"name": "Amsar",
+		"replaces": "Barracks",
+		"uniqueTo": "The Caliphate",
+		"cityStrength": 2,
+		"cityHealth": 20,
+		"faith": 1,
+		"cost": 50,
+		"hurryCostMultiplier": 25,
+		"maintenance": 1,
+		"uniques": [
+			"New [Military] units start with [15] XP [in this city]",
+			"Provides [1] [Slaves]",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Musalla",
+		"replaces": "Shrine",
+		"uniqueTo": "The Caliphate",
+		"production": 1,
+		"faith": 1,
+		"cost": 40,
+		"requiredTech": "Secrets of the Past",
+		"uniques": [
+			"Only available <when religion is enabled>",
+			"[+1 Production] [in this city] <when above [0] [Power]>"
+		]
+	},
+	{
+		"name": "Houri Brothel",
+		"replaces": "Distillery",
+		"uniqueTo": "The Caliphate",
+		"happiness": 2,
+		"maintenance": 1,
+		"uniques": ["Provides [2] [Slaves]", "[+10]% growth [in this city]"],
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Esir",
+		"replaces": "Town Hall",
+		"uniqueTo": "The Caliphate",
+		"percentStatBonus": {"food": 10},
+		"specialistSlots": {"Administrator": 1},
+		"culture": 1,
+		"happiness": 1,
+		"uniques": [
+			"[+50]% Production when constructing [Worker] units [in this city]",
+			"[+2 Production] [in this city] <when above [0] [Slaves]>",
+			"Only available <with [Slaves]>",
+			"Consumes [1] [Slaves]"
+		],
+		"requiredTech": "Trade"
+	},
+	{
+		"name": "Exotic Bazaar",
+		"replaces": "Public Works Administration",
+		"uniqueTo": "The Caliphate",
+		"percentStatBonus": {"gold": 10},
+		"cost": 150,
+		"isNationalWonder": true,
+		"uniques": [
+			"Provides 1 extra copy of each improved luxury resource near this City",
+			"Provides [4] [Slaves]",
+			"Comment [+1 Water from all non-wonder buildings that provide Slaves]",
+			"[+1 Gold] from every [Prison Camp] <hidden from users>",
+			"[+1 Gold] from every [Amsar] <hidden from users>",
+			"[+1 Gold] from every [Houri Brothel] <hidden from users>",
+			"Only available <if [Esir] is constructed in at least [4] of [Your] cities>",
+			"Cost increases by [30] per owned city"
+		],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Mosque",
+		"replaces": "Monastery",
+		"uniqueTo": "The Caliphate",
+		"faith": 3,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Education",
+		"uniques": [
+			"Only available <in cities with a [Musalla]>",
+			"Only available <when religion is enabled>",
+			"[+34]% Natural religion spread [in this city]"
+		]
+	},
+	{
+		"name": "Great Mosque",
+		"replaces": "Grand Monastery",
+		"uniqueTo": "The Caliphate",
+		"isNationalWonder": true,
+		"culture": 1,
+		"faith": 10,
+		"cost": 125,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Only available <if [Mosque] is constructed in all [non-[Puppeted]] cities>",
+			"Cost increases by [30] per owned city",
+			"Can only be built <in [Holy] cities>",
+			"Only available <after adopting [Theocracy]>",
+			"Only available <when religion is enabled>",
+			"All newly-trained [Philosopher] units [in this city] receive the [Devout] promotion",
+			"All newly-trained [Great Sage] units [in this city] receive the [Devout] promotion",
+			"[-50]% maintenance costs <for [Enslaved] units>",
+			"[+2 Gold, +2 Happiness] [in all cities with a garrison]"
+		]
+	},
+
+	//Aurelian Group unique buildings
+	{
+		"name": "Dugout",
+		"replaces": "Food Store",
+		"uniqueTo": "Aurelian Group",
+		"cityHealth": 25,
+		"cost": 10,
+		"hurryCostModifier": -25,
+		"uniques": [
+			"[20]% Food is carried over after population increases [in this city]",
+			"[+1 Food] [in this city] <with [Salt]>",
+			"[+10]% growth [in this city] <with [Salt]>",
+			"[-1 Production, +1 Gold] [in this city] <with [Alcohol]>",
+			"[-1 Production, +1 Gold] [in this city] <with [Narcotics]>",
+			"[-1 Production, -1 Food, +1 Gold] [in this city] <with [Refined Narcotics]>"
+		]
+	},
+	{
+		"name": "Warden's Court",
+		"replaces": "Prison Camp",
+		"uniqueTo": "Aurelian Group",
+		"production": -2,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Removes extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>",
+			"Only available <in cities without a [Listening Post]>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Opal Fields",
+		"uniqueTo": "Aurelian Group",
+		"maintenance": 2,
+		"hurryCostModifier": 20,
+		"uniques": [
+			"[+1 Production] from [{non-[resource]} {Armed Mining Camp}] tiles [in this city]",
+			"[+1 Production] from [{non-[resource]} {Borehole}] tiles [in this city]",
+			"Provides [1] [Opal]",
+			"Cost increases by [30] when built"
+		],
+		"requiredTech": "Mining"
+	},
+	{
+		"name": "Mining Tunnels",
+		"uniqueTo": "Aurelian Group",
+		"cityStrength": 5,
+		"cityHealth": 80,
+		"maintenance": 1,
+		"hurryCostModifier": 20,
+		"uniques": [
+			"[+2 Production] from [Mountain] tiles [in this city]",
+			"[+2 Production] from [Mountain Tunnel] tiles [in this city]",
+			"Must have an owned [Mountain Tunnel] within [3] tiles"
+		],
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Geological Survey Center",
+		"replaces": "National College",
+		"uniqueTo": "Aurelian Group",
+		"isNationalWonder": true,
+		"science": 3,
+		"culture": 1,
+		"percentStatBonus": {"science": 50},
+		"cost": 125,
+		"uniques": [
+			"[+1 Science] from [Strategic resource] tiles [in all cities]",
+			"[+1 Science] from [Mountain] tiles [in all cities]",
+			"[+1 Science] from [Mountain Tunnel] tiles [in all cities]",
+			"Only available <if [Library] is constructed in all [non-[Puppeted]] cities>",
+			"Cost increases by [30] per owned city"
+		],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "School of Mines",
+		"replaces": "University",
+		"uniqueTo": "Aurelian Group",
+		"maintenance": 1,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 1},
+		"uniques": [
+			"[+1 Science] from [Armed Mining Camp] tiles [in this city]",
+			"[+1 Science] from [Borehole] tiles [in this city]",
+			"[+1 Science] from [Mountain] tiles [in this city]",
+			"[+1 Science] from [Mountain Tunnel] tiles [in this city]",
+			"[+2 Science] [in this city] <when above [0] [Power]>",
+			"Only available <in cities with a [Library]>"
+		],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Mineral Enricher",
+		"replaces": "Plastics Factory",
+		"uniqueTo": "Aurelian Group",
+		"production": 2,
+		"percentStatBonus": {"production": 5},
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"uniques": [
+			"[+2 Production, +1 Science] from [Mountain] tiles [in this city]",
+			"[+2 Production, +1 Science] from [Mountain Tunnel] tiles [in this city]",
+			"Must have an owned [Mountain Tunnel] within [3] tiles"
+		],
+		"requiredTech": "Replaceable Parts"
+	},
+
+	//Oathsworn unique buildings
+	{
+		"name": "Rally Survivors",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "The Oathsworn",
+		"cost": 40,
+		"isNationalWonder": true,
+		"uniques": [
+			"[+1] population [in all cities]",
+			"[+10]% Production when constructing [Land] units [in all cities]",
+			"Free [Armed Settler] appears"
+		]
+	},
+	{
+		"name": "Workbench",
+		"replaces": "Forge",
+		"uniqueTo": "The Oathsworn",
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"requiredTech": "Iron Working",
+		"uniques": [
+			"[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Strategic resource] tiles [in this city]",
+			"Provides [1] [Weapons]"
+		]
+	},
+	{
+		"name": "Tribunal",
+		"uniqueTo": "The Oathsworn",
+		"cost": 60,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Comment [Replaces Prison Camp without being treated as Prison Camp]",
+			"Removes extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Remedial School",
+		"uniqueTo": "The Oathsworn",
+		"percentStatBonus": {"science": 15},
+		"happiness": 1,
+		"science": 2,
+		"specialistSlots": {"Scientist": 1},
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": [
+			"Comment [Replaces Work Camp without being treated as Work Camp]",
+			"[+1] population [in this city]",
+			"[+2 Science] [in this city] <with [Power]>",
+			"[+1 Happiness] [in this city] <after adopting [Voting Rights]>",
+			"Consumes [1] [Slaves]",
+			"Only available <with [Slaves]>",
+			"Unsellable"
+		],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Water Purifier",
+		"replaces": "Water Storage",
+		"uniqueTo": "The Oathsworn",
+		"gold": 3,
+		"percentStatBonus": {"gold": 10},
+		"specialistSlots": {"Merchant": 1},
+		"requiredTech": "Currency",
+		"uniques": [
+			"[+1 Gold] from [Water pump] tiles [in this city]",
+			"[+3 Gold] [in this city] <when above [0] [Power]>",
+			"[+100]% Gold given to enemy if city is captured <in this city>"
+		]
+	},
+	{
+		"name": "Volunteer Industry Factory",
+		"replaces": "Factory",
+		"uniqueTo": "The Oathsworn",
+		"percentStatBonus": {"production": 20},
+		"specialistSlots": {"Engineer": 2},
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"uniques": [
+			"Only available <in cities with a [Library]>",
+			"[+10]% Production when constructing [Military] units [in this city] <when at war>",
+			"[+4 Production, +2 Happiness] [in this city] <when above [0] [Power]>",
+			"[+1 Production] from [Machine Parts] tiles [in this city]",
+			"Consumes [1] [Power]"
+		],
+		"requiredTech": "Manufacturing"
+	},
+	{
+		"name": "Radio Freedom",
+		"replaces": "Broadcast Tower",
+		"uniqueTo": "The Oathsworn",
+		"culture": 2,
+		"happiness": 2,
+		"specialistSlots": {"Administrator": 1},
+		"percentStatBonus": {"culture": 10},
+		"maintenance": 3,
+		"requiredTech": "Radio",
+		"uniques": [
+			"[+25]% Great Person generation [in this city]",
+			"[+1] population [in this city]",
+			"Unsellable",
+			"Consumes [1] [Power]"
+		]
+	},
+	{
+		"name": "Control Post",
+		"replaces": "Listening Post",
+		"uniqueTo": "The Oathsworn",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"happiness": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[-30]% enemy spy effectiveness [in this city]",
+			"[+50]% Yield from every [Citadel] <in this city>",
+			"Destroyed when the city is captured",
+			"Only available <when espionage is enabled>"
+		],
+		"requiredTech": "Electronics"
+	},
+	{
+		"name": "Oathsworn cannot build Prison Camp",
+		"replaces": "Prison Camp",
+		"uniqueTo": "The Oathsworn",
+		"uniques": ["Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Oathsworn cannot build Work Camp",
+		"replaces": "Work Camp",
+		"uniqueTo": "The Oathsworn",
+		"uniques": ["Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"]
+	},
+
+	//Nowa Polska unique buildings
+	{
+		"name": "Stadnina Koni",
+		"replaces": "Stable",
+		"uniqueTo": "Nowa Polska",
+		"requiredNearbyImprovedResources": ["Horses"],
+		"cost": 50,
+		"hurryCostModifier": -25,
+		"uniques": [
+			"[+15]% Production when constructing [Mounted] units [in this city]",
+			"New [Mounted] units start with [15] XP [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]"
+		],
+		"requiredTech": "Redomestication"
+	},
+	{
+		"name": "Sukiennice",
+		"replaces": "Market",
+		"uniqueTo": "Nowa Polska",
+		"production": 2,
+		"gold": 3,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"requiredTech": "Trade",
+		"uniques": [
+			"[+1 Gold] from [Luxury resource] tiles [in this city]",
+			"[+1 Gold] from each Trade Route"
+		]
+	},
+	{
+		"name": "Folwark",
+		"replaces": "Greenhouse",
+		"uniqueTo": "Nowa Polska",
+		"food": 3,
+		"gold": 2,
+		"specialistSlots": {"Farmer": 1},
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[+1 Food] from [Tubers] tiles [in this city]",
+			"[+1 Food] from [Grain] tiles [in this city]",
+			"[+1 Food] from [Cactus] tiles [in this city]",
+			"[+1 Food] [in this city] <with [Exotic Seeds]>"
+		],
+		"requiredTech": "Botany"
+	},
+	{
+		"name": "Ratusz",
+		"replaces": "Town Hall",
+		"uniqueTo": "Nowa Polska",
+		"culture": 2,
+		"specialistSlots": {"Administrator": 1},
+		"maintenance": 1,
+		"uniques": [
+			"[-25]% Culture cost of natural border growth [in this city]",
+			"[-25]% Gold cost of acquiring tiles [in this city]",
+			"[+1 Happiness] [in this city] <for every [Completed Policy branches]>"
+		],
+		"hurryCostModifier": 25,
+		"requiredTech": "Civil Service"
+	},
+
+	//Celestial Collective unique buildings
+	{
+		"name": "Shrine of the Honorful Dead",
+		"replaces": "Shrine",
+		"uniqueTo": "Celestial Collective",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 0,
+		"requiredTech": "Secrets of the Past",
+		"uniques": [
+			"Only available <when religion is enabled>",
+			"[+2 Culture] [in this city] <when at war>"
+		]
+	},
+	{
+		"name": "Council of the Self",
+		"replaces": "Monastery",
+		"uniqueTo": "Celestial Collective",
+		"faith": 2,
+		"maintenance": 1,
+		"requiredTech": "Education",
+		"uniques": [
+			"Only available <in cities with a [Shrine of the Honorful Dead]>",
+			"Only available <when religion is enabled>",
+			"New [Military] units start with [5] XP [in this city] <for every [Completed Policy branches]>"
+		]
+	},
+	{
+		"name": "Examination Hall",
+		"replaces": "University",
+		"uniqueTo": "Celestial Collective",
+		"maintenance": 1,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 1},
+		"uniques": [
+			"[+1 Science] from [Forest] tiles [in this city]",
+			"[+1 Science] from [Jungle] tiles [in this city]",
+			"[+1 Science] from [Sunken Ruins] tiles [in this city]",
+			"[+2 Science] [in this city] <when above [0] [Power]>",
+			"[+1 Culture, +2 Happiness] [in this city] <with a garrison>",
+			"Only available <in cities with a [Library]>"
+		],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Hall of Final Reflections",
+		"replaces": "Grand Monastery",
+		"uniqueTo": "Celestial Collective",
+		"isNationalWonder": true,
+		"culture": 1,
+		"faith": 8,
+		"cost": 125,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Only available <if [Council of the Self] is constructed in all [non-[Puppeted]] cities>",
+			"Cost increases by [30] per owned city",
+			"Can only be built <in [Holy] cities>",
+			"Only available <after adopting [Theocracy]>",
+			"Only available <when religion is enabled>",
+			"Gain [20] [Culture] <upon expending a [Religious Unit] unit> <(modified by game speed)>",
+			"Gain [20] [Faith] <upon expending a [Religious Unit] unit> <(modified by game speed)>",
+			"All newly-trained [Pure Thought Agent] units [in this city] receive the [Enforcement of the Four Truths] promotion",
+			"All newly-trained [Dragon of the Four Truths] units [in this city] receive the [Commitment to the Four Truths] promotion",
+			"All newly-trained [Emissary of the Anti-Father] units [in this city] receive the [Commitment to the Four Truths] promotion"
+		]
+	},
+
+	//New and adjusted unique wonders and government buildings for DeCiv Redux factions
+	{
+		"name": "Mansion of Our Father",
+		"isWonder": true,
+		"uniqueTo": "New Afrika",
+		"cost": 0,
+		"culture": 2,
+		"food": 2,
+		"uniques": [
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Provides [1] [Weapons]",
+			"Free [Panther] appears",
+			"Gain a free [Food Store] [in this city]",
+			"May choose [1] additional belief(s) of any type when [enhancing] a religion"
+		],
+		"quote": "'We declare our right on this earth to be a human being, to be respected as a human being, to be given the rights of a human being in this society, on this earth, in this day, which we intend to bring into existence by any means necessary.' - Malcolm X",
+		"civilopediaText": [
+			{
+				"text": "'We declare our right on this earth to be a human being, to be respected as a human being, to be given the rights of a human being in this society, on this earth, in this day, which we intend to bring into existence by any means necessary.' - Malcolm X"
+			}
+		]
+	},
+	{
+		"name": "Special Committee",
+		"replaces": "Congress",
+		"uniqueTo": "The Patriots",
+		"cost": 150,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Culture] per [4] population [in all cities]",
+			"[-5]% Unhappiness from [Population] [in all cities]",
+			"[-15]% enemy spy effectiveness [in all cities]",
+			"[+25]% Production when constructing [City Defense] buildings [in all cities]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Junta]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Junta",
+		"replaces": "Council",
+		"uniqueTo": "The Patriots",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+10]% growth [in all cities]",
+			"[+15]% Production when constructing [Military] units [in annexed cities]",
+			"[+100]% Production when constructing [Listening Post] buildings [in annexed cities]",
+			"[+2 Happiness] [in annexed cities]",
+			"[+2 Happiness] [in puppeted cities]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Special Committee]>",
+			"Destroyed when the city is captured"
+		],
+		"civilopediaText": [
+			{
+				"text": "Establishing a Junta allows the Patriots to train Military Police."
+			}
+		]
+	},
+	{
+		"name": "Collective Congress",
+		"uniqueTo": "New Afrika",
+		"replaces": "Congress",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Culture] per [4] population [in all cities]",
+			"[+1 Happiness] per [8] population [in all cities]",
+			"[+1 Food, +1 Production, +1 Gold, +1 Science, +1 Culture, +1 Faith] from every [Settlement]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Revolutionary Council]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Revolutionary Council",
+		"uniqueTo": "New Afrika",
+		"replaces": "Council",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1] Unit Supply per [2] population [in all cities]",
+			"[-25]% maintenance costs <for [Military] units>",
+			"[+15]% Production when constructing [Personnel] units [in all cities]",
+			"[+5]% Production when constructing [All] buildings [in all cities connected to capital]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Collective Congress]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Verkhovny Sovet", //originally named Five-Year Plan, which makes no sense
+		"replaces": "Congress",
+		"uniqueTo": "Proklyatyye",
+		"cost": 150,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+10]% growth [in all cities connected to capital]",
+			"[+1 Production, +1 Culture] per [4] population [in all cities connected to capital]",
+			"[+25]% Great Person generation [in all cities connected to capital]",
+			"[-5]% Unhappiness from [Population] [in all cities connected to capital]",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Politburo]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Troika", //originally named Gulag, which should have gone to a unique Prison/Labor Camp replacement in the base scenario
+		"cost": 100,
+		"replaces": "Council",
+		"uniqueTo": "Proklyatyye",
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+100]% [Slaves] resource production",
+			"[+3 Food, +3 Production] from every [Corrective Colony]",
+			"[+10]% [Food] from every [Corrective Colony]",
+			"[+3 Production] from every [Gulag]",
+			"[+3 Production] from every [Listening Post]",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Verkhovny Sovet]>",
+			"Destroyed when the city is captured"
+		]
+	},
+
+	//Other new and adjusted unique buildings for DeCiv Redux factions
+	{
+		"name": "Kruger Line",
+		"uniqueTo": "Atlas",
+		"isNationalWonder": true,
+		"culture": 3,
+		"cost": 150,
+		"uniques": [
+			"Can only be built <in [Capital] cities>",
+			"[+1 Production] from [Railroad] tiles [in all cities]",
+			"[+1 Gold] from each Trade Route",
+			"Consumes [1] [Power]",
+			"Only available <if [Factory] is constructed in all [non-[Puppeted]] cities>",
+			"Cost increases by [30] per owned city"
+		],
+		"requiredTech": "Railroads"
+	},
+	{
+		"name": "Commonwealth Reserve",
+		"replaces": "Water Storage",
+		"uniqueTo": "Commonwealth",
+		"gold": 3,
+		"percentStatBonus": {"gold": 20},
+		"specialistSlots": {"Merchant": 1},
+		"requiredTech": "Currency",
+		"uniques": [
+			"[+1 Gold] from every [Merchant] <in this city>",
+			"[+100]% Gold given to enemy if city is captured <in this city>"
+		]
+	},
+	{
+		"name": "Ignitor's Tower",
+		"replaces": "Town Hall",
+		"uniqueTo": "Cult of Ignis",
+		"specialistSlots": {"Administrator": 1},
+		"cityHealth": 50,
+		"cost": 120,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[+75]% Production when constructing [Worker] units [in this city]",
+			"[+2 Food, +2 Production] [in this city] <when above [0] [Slaves]>",
+			"[+1 Culture, +1 Faith] [in this city] <with [Books]>",
+			"Only available <with [Slaves]>",
+			"Consumes [1] [Slaves]"
+		]
+	},
+	{
+		"name": "Plantation",
+		"replaces": "Greenhouse",
+		"uniqueTo": "Deadrock Clan",
+		"food": 2,
+		"specialistSlots": {"Farmer": 1},
+		"uniques": [
+			"[+1 Food] from [Grain] tiles [in this city]",
+			"[+1 Food] from [Tubers] tiles [in this city]",
+			"[+1 Food] from [Cactus] tiles [in this city]",
+			"[+1 Food] from every [Farmer] <in this city>",
+			"[+1 Culture] from [Narcotics farm] tiles [in this city]",
+			"[+50]% Production when constructing [Worker] units [in this city]",
+			"[+2 Food] [in this city] <when above [0] [Slaves]>",
+			"[+1 Food] [in this city] <with [Exotic Seeds]>",
+			"Only available <with [Slaves]>",
+			"Consumes [1] [Slaves]"
+		],
+		"cost": 70,
+		"hurryCostModifier": 25,
+		"requiredTech": "Botany"
+	},
+	{
+		"name": "Chemfuel Generator",
+		"uniqueTo": "Hexlock",
+		"percentStatBonus": {"production": 5},
+		"maintenance": 1,
+		"uniques": [
+			"Provides [2] [Power]",
+			"Must have an owned [Refinery] within [3] tiles",
+			"Only available <in cities with a [Research Lab]>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Laboratory"
+	},
+	{
+		"name": "Afrikan Reformed Church",
+		"replaces": "Monastery",
+		"uniqueTo": "New Afrika",
+		"faith": 2,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Education",
+		"uniques": [
+			"Only available <when religion is enabled>",
+			"[+2 Happiness] [in this city] <in cities following our religion>"
+		]
+	},
+	{
+		"name": "Survival Program",
+		"replaces": "Community Garden",
+		"uniqueTo": "New Afrika",
+		"food": 4,
+		"specialistSlots": {"Farmer": 1},
+		"maintenance": 1,
+		"uniques": [
+			"[+25]% Great Person generation [in this city]",
+			"[+10]% growth [in this city]",
+			"[+1 Food] [in this city] <with [Exotic Seeds]>"
+		],
+		"requiredTech": "Ecology"
+	},
+	{
+		"name": "Gulag",
+		"replaces": "Work Camp",
+		"uniqueTo": "Proklyatyye",
+		"percentStatBonus": {"production": 10},
+		"happiness": -2,
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": [
+			"[+1 Production] from [Food source] tiles [in this city]",
+			"[+2 Production] [in this city] <with [Slaves]>",
+			"Consumes [1] [Slaves]",
+			"Only available <with [Slaves]>"
+		],
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Atomgrad Project",
+		"replaces": "Manhattan Project",
+		"uniqueTo": "Proklyatyye",
+		"isNationalWonder": true,
+		"requiredTech": "Nuclear Fission",
+		"uniques": [
+			"Enables nuclear weapon",
+			"[+100]% [Uranium] resource production",
+			"Triggers a global alert upon completion",
+			"Cannot be hurried"
+		],
+		"civilopediaText": [
+			{
+				"text": "This project allows Proklyatyye to produce Super Mutants and Siege Nukes."
+			}
+		]
+	},
+
+	//No longer a faction unique component
+	{
+		"name": "Heat Plant",
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Must have an owned [Fissure] within [3] tiles",
+			"Provides [2] [Power]",
+			"[+2 Production] from [Fissure] tiles [in this city]",
+			"Only available <in cities with a [Library]>"
+		],
+		"requiredTech": "Plastics"
+	},
+
+	//City-State buildings
+	{
+		"name": "Ritz-Carlton Resort",
+		"uniqueTo": "Venice Beach",
+		"food": 2,
+		"gold": 2,
+		"culture": 2,
+		"happiness": 2,
+		"cost": 0,
+		"uniques": [
+			"Reveals the entire map",
+			"Provides 1 extra copy of each improved luxury resource near this City",
+			"[+1] population [in this city]",
+			"Free [Spearman] appears",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Yacht Club",
+		"uniqueTo": "Venice Beach",
+		"culture": 2,
+		"happiness": 2,
+		"cost": 0,
+		"uniques": [
+			"Must be next to [Coast]",
+			"[+1 Culture] from [Water resource] tiles [in this city]",
+			"[2] free [Weaponized Yacht] units appear",
+			"Never destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Issaquah Tribal Council",
+		"uniqueTo": "Issaquah Nation",
+		"cityHealth": 50,
+		"food": 2,
+		"gold": 2,
+		"culture": 2,
+		"cost": 0,
+		"uniques": [
+			"[3] units cost no maintenance",
+			"Free [Issaquah Mystic] appears",
+			"[2] free [Hawkman Brave] units appear",
+			"[+25]% Production when constructing [Military] units [in this city] <when at war>",
+			"[+1] population [in this city]",
+			"Reveals the entire map",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Totem Pole",
+		"uniqueTo": "Issaquah Nation",
+		"replaces": "Monument",
+		"culture": 2,
+		"cost": 0,
+		"uniques": ["New [Military] units start with [30] XP [in this city]"]
+	},
+	{
+		"name": "Pole House",
+		"uniqueTo": "Issaquah Nation",
+		"food": 2,
+		"culture": 1,
+		"cost": 0,
+		"uniques": [
+			"Must be next to [Coast]",
+			"[+1 Food] from [Fishing Boats] tiles [in this city]",
+			"[+1 Food] from [{Water} {Bioculture}] tiles [in this city]",
+			"[+10]% Production when constructing [Water] units [in this city]",
+			"Free [Dinghy] appears",
+			"Free [Work Boats] appears",
+			"Never destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		],
+		"requiredTech": "Sailing"
+	},
+	{
+		"name": "Coastal Longhouse",
+		"uniqueTo": "Issaquah Nation",
+		"replaces": "Food Store",
+		"culture": 2,
+		"cost": 0,
+		"uniques": [
+			"[20]% Food is carried over after population increases [in this city]",
+			"[+1 Food] [in this city] <with [Salt]>",
+			"[+1 Food, +1 Production, +1 Culture] from [Tree plantation] tiles [in this city]"
+		]
+	},
+	{
+		"name": "Gateway Arch",
+		"uniqueTo": "Defiance",
+		"culture": 2,
+		"cost": 0,
+		"uniques": [
+			"Reveals the entire map",
+			"Free [Pale Veteran] appears",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Lawkeeper Office",
+		"uniqueTo": "Defiance",
+		"replaces": "Town Hall",
+		"cityHealth": 50,
+		"specialistSlots": {"Administrator": 1},
+		"food": 2,
+		"culture": 3,
+		"happiness": 3,
+		"cost": 0,
+		"uniques": [
+			"[5] units cost no maintenance",
+			"[+5] Unit Supply",
+			"[+1] population [in this city]",
+			"Free [Lawkeeper] appears",
+			"Free [Roller] appears",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Exotic Reactor",
+		"uniqueTo": "Defiance",
+		"cost": 0,
+		"uniques": [
+			"Provides [8] [Power]",
+			"Destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Defiance Armory",
+		"replaces": "Armory",
+		"uniqueTo": "Defiance",
+		"cost": 0,
+		"uniques": [
+			"Provides [2] [Weapons]",
+			"New [Military] units start with [15] XP [in this city]",
+			"Destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Von Bach Industries",
+		"uniqueTo": "Defiance",
+		"replaces": "Armaments Production Line",
+		"cityStrength": 5,
+		"cost": 0,
+		"uniques": [
+			"Provides [4] [Oil]",
+			"Provides [4] [Weapons]",
+			"[4] units cost no maintenance",
+			"[+4] Unit Supply",
+			"[Personnel] units gain the [Infantry Weapons] promotion",
+			"[Personnel] units gain the [AI Implant] promotion",
+			"[2] free [Ark Hunter] units appear",
+			"Free [Mechanized Worker] appears",
+			"Destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		],
+		"requiredTech": "Replaceable Parts"
+	},
+	{
+		"name": "Stasis Net",
+		"uniqueTo": "Defiance",
+		"cityStrength": 20,
+		"cityHealth": 100,
+		"requiredTech": "Energy Weapons",
+		"uniques": [
+			"Consumes [1] [Power]",
+			"Destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Carbon Warehouse",
+		"replaces": "Food Store",
+		"uniqueTo": "Carbon",
+		"cost": 0,
+		"uniques": [
+			"[20]% Food is carried over after population increases [in this city]",
+			"[+1 Food] [in this city] <with [Salt]>",
+			"Provides 1 extra copy of each improved luxury resource near this City",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Atomic Diner",
+		"uniqueTo": "Carbon",
+		"food": 2,
+		"specialistSlots": {"Merchant": 2},
+		"cost": 0,
+		"hurryCostModifier": 5,
+		"requiredTech": "Trade",
+		"uniques": [
+			"[+1 Gold] from [Food source] tiles [in this city]",
+			"Provides [2] [Soft Drinks]",
+			"Never destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Refurbished Textile Mill",
+		"uniqueTo": "Calico",
+		"percentStatBonus": {"production": 10},
+		"cost": 0,
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"uniques": [
+			"[+1 Production] [in this city] <with [Power]>",
+			"[+1 Production] [in this city] <with [Machine Parts]>",
+			"[+1 Production] from [Machine Parts] tiles [in this city]",
+			"Provides [1] [Fabrics]",
+			"Never destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Nanomaterial Factory",
+		"replaces": "Automated Factory",
+		"uniqueTo": "Calico",
+		"percentStatBonus": {"production": 25},
+		"production": 5,
+		"maintenance": 3,
+		"specialistSlots": {"Engineer": 2},
+		"uniques": [
+			"All newly-trained [Personnel] units [in this city] gain the [Ballistic Weave] promotion",
+			"[+5 Production] [in this city] <with [Power]>",
+			"Only available <in cities with a [Refurbished Textile Mill]>",
+			"Provides [1] [Advanced Fabrics]",
+			"Consumes [1] [Power]"
+		],
+		"requiredTech": "Advanced Materials"
+	},
+	{
+		"name": "Pre-War Cryo Sanctum",
+		"uniqueTo": "The Pax",
+		"cost": 0,
+		"science": 5,
+		"culture": 2,
+		"cityStrength": 5,
+		"cityHealth": 100,
+		"percentStatBonus": {"science": 10},
+		"uniques": [
+			"Free [Persevering Pax Researcher] appears <upon turn end> <every [50] turns>",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Unsellable",
+			"Never destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Research and Preservation Institute",
+		"uniqueTo": "The Pax",
+		"percentStatBonus": {"science": 15},
+		"cost": 0,
+		"replacementTextForUniques": "Receive a free Persevering Pax Researcher upon construction, and again each time you advance to a new technological era starting with the Industrial era. Preservators provide an additional +1 Science and Culture.",
+		"uniques": [
+			"Free [Persevering Pax Researcher] appears",
+			"Free [Persevering Pax Researcher] appears <upon entering the [Industrial era]>",
+			"Free [Persevering Pax Researcher] appears <upon entering the [Postmodern era]>",
+			"Free [Persevering Pax Researcher] appears <upon entering the [Information era]>",
+			"Free [Persevering Pax Researcher] appears <upon entering the [New Future era]>",
+			"[+1 Science, +1 Culture] from every [Preservator]",
+			"Unsellable",
+			"Never destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Revival Chambers",
+		"uniqueTo": "The Pax",
+		"food": 5,
+		"science": 5,
+		"cost": 0,
+		"uniques": [
+			"[+2] population [in this city]",
+			"Only available <in cities with a [Pre-War Cryo Sanctum]>",
+			"Unsellable",
+			"Never destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		],
+		"requiredTech": "Refrigeration"
+	},
+	{
+		"name": "Regional Hockey Federation",
+		"replaces": "Defense Directorate",
+		"uniqueTo": "Hockeytown",
+		"cityHealth": 50,
+		"culture": 2,
+		"gold": 2,
+		"cost": 0,
+		"uniques": [
+			"[3] units cost no maintenance",
+			"Free [Blueliner] appears",
+			"Reveals the entire map",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Ice Hockey Rink",
+		"replaces": "Stadium",
+		"uniqueTo": "Hockeytown",
+		"culture": 2,
+		"happiness": 4,
+		"cost": 0,
+		"maintenance": 0,
+		"uniques": [
+			"[+1 Gold] from [Tundra] tiles [in this city]",
+			"[+1 Gold] from [Permafrost] tiles [in this city]",
+			"Provides [2] [Soft Drinks]",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Gate to the Emerald City",
+		"uniqueTo": "Izumrydniy Gorod",
+		"cityHealth": 50,
+		"culture": 2,
+		"science": 2,
+		"cost": 0,
+		"uniques": [
+			"Reveals the entire map",
+			"Provides [1] [Weapons]",
+			"Free [Militia] appears",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Emerald City Library",
+		"replaces": "Library",
+		"uniqueTo": "Izumrydniy Gorod",
+		"science": 2,
+		"cost": 0,
+		"maintenance": 0,
+		"uniques": [
+			"[+1 Science] per [2] population [in this city]",
+			"[+1 Science] [in this city] <when above [0] [Power]>",
+			"[+15]% Production when constructing [Personnel] units [in this city]",
+			"Destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Emerald City University",
+		"replaces": "University",
+		"uniqueTo": "Izumrydniy Gorod",
+		"culture": 2,
+		"science": 2,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 1},
+		"cost": 0,
+		"maintenance": 0,
+		"uniques": [
+			"[-100]% maintenance on road & railroads",
+			"[+50]% Production when constructing [Civilian] units [in this city]",
+			"[+1 Science] from [Jungle] tiles [in this city]",
+			"[+1 Science] from [Forest] tiles [in this city]",
+			"[+1 Science] from [Sunken Ruins] tiles [in this city]",
+			"[+2 Science] [in this city] <when above [0] [Power]>",
+			"Only available <in cities with a [Emerald City Library]>",
+			"Destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "GUVD Trudograd",
+		"replaces": "Town Hall",
+		"uniqueTo": "Trudograd",
+		"cityHealth": 50,
+		"cost": 0,
+		"uniques": [
+			"[3] units cost no maintenance",
+			"Provides [2] [Weapons]",
+			"Free [Trudograd Security Service] appears",
+			"Reveals the entire map",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Seventh Heaven",
+		"replaces": "Arcology Dome",
+		"uniqueTo": "Trudograd",
+		"cityStrength": 5,
+		"cityHealth": 150,
+		"food": 1,
+		"gold": 1,
+		"culture": 1,
+		"cost": 0,
+		"uniques": [
+			"[+5]% growth [in this city]",
+			"[5]% Food is carried over after population increases [in this city]",
+			"[-5]% Unhappiness from [Population] [in this city]",
+			"[+33]% [Production] [in this city] <after discovering [Social Engineering]>",
+			"[+33]% [Gold] [in this city] <after discovering [Advanced Materials]>",
+			"Destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Martyr's Mural",
+		"uniqueTo": "Powderhorn Autonomous Zone",
+		"culture": 2,
+		"cost": 0,
+		"uniques": [
+			"Reveals the entire map",
+			"Provides [1] [Weapons]",
+			"Free [New Police] appears",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Destroyed when the city is captured",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+	{
+		"name": "Asian Garden Mall",
+		"uniqueTo": "Tự Do",
+		"food": 2,
+		"gold": 2,
+		"culture": 2,
+		"percentStatBonus": {"food": 5, "gold": 5, "culture": 5},
+		"cost": 0,
+		"uniques": [
+			"[+1] population [in this city]",
+			"Free [Tự Vệ Quân] appears",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Destroyed when the city is captured",
+			"Gain a free [Market] [in this city]"
+		]
+	}
+]

@@ -1,0 +1,13 @@
+{
+	"isBaseRuleset": false,
+	"nationsToRemove": ["Deseret Nation"],
+	"buildingsToRemove": [
+		"Five-Year Plan", "Grand Temple", "Mormon Monument"
+	],
+	"uniques": [
+		"Suppress warning [is supposed to automatically upgrade]",
+		"Suppress warning [is more expensive to calculate than]",
+		"Mod requires [Deciv 2]",
+        "Mod is incompatible with [Outlaws of the Wastes]"
+	]
+}

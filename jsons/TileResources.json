@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Advanced Fabrics",
+		"resourceType": "Luxury",
+		"uniques": [
+			"[Personnel] units gain the [Ballistic Weave] promotion"
+		]
+	},
+	{
+		"name": "Opal",
+		"resourceType": "Luxury"
+	},
+	{
+		"name": "Scriptures",
+		"resourceType": "Luxury"
+	}
+]

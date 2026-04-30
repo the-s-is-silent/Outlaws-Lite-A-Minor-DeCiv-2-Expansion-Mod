@@ -1,0 +1,163 @@
+[
+	//Great Improvements
+	{
+		"name": "Endowment House",
+		"gold": 1,
+		"culture": 1,
+		"faith": 6,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [10]%",
+			"[+1 Food] <with [1] to [6] neighboring [Food source] tiles>",
+			"[+1 Gold] <after discovering [Currency]>",
+			"[+1 Culture] <after discovering [Civil Service]>",
+			"[+1 Gold] <after discovering [Railroads]>",
+			"[+1 Culture] <after discovering [Social Engineering]>",
+			"Removes removable features when built",
+			"Will not be replaced by automated units",
+			"Unbuildable <in [Impeded terrain] tiles>",
+			"Pillaging this improvement yields approximately [+20 Gold]"
+		]
+	},
+	{
+		"name": "Wasteland Station",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"food": 2,
+		"gold": 2,
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [10]%",
+			"Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+			"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Wasteland Station] tiles>",
+			"[+2 Production] <in [Strategic resource] tiles>",
+			"[+1 Food, +1 Gold] <after discovering [Decontamination]>",
+			"[+1 Production, +1 Gold] <after discovering [Railroads]>",
+			"[+1 Production, +1 Gold] <after discovering [Radar]>",
+			"[+1 Production, +1 Gold] <after discovering [Incentivization]>",
+			"[+2 Gold] <after discovering [Globalization]>",
+			"Removes removable features when built",
+			"Will not be replaced by automated units",
+			"Unbuildable <in [Impeded terrain] tiles>",
+			"Pillaging this improvement yields approximately [+20 Gold]"
+		]
+	},
+
+	//Other Civ uniques
+	{
+		"name": "Armed Mining Camp",
+		"replaces": "Mine",
+		"uniqueTo": "Aurelian Group",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"production": 1,
+		"turnsToBuild": 9,
+		"techRequired": "Mining",
+		"uniques": [
+			"Gives a defensive bonus of [50]%",
+			"[+1 Production] <after discovering [Steam Power]>",
+			"[+1 Production] <after discovering [Railroads]>",
+			"Can only be built to improve a resource <in [resource] tiles>",
+			"Pillaging this improvement yields approximately [+20 Gold]"
+		],
+		"shortcutKey": "M"
+	},
+	{
+		"name": "Caer",
+		"uniqueTo": "Camelot Foundation",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"gold": 3,
+		"production": 1,
+		"culture": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Engineering",
+		"uniques": [
+			"Gives a defensive bonus of [50]%",
+			"[+1 Culture] <after discovering [Radio]>",
+			"[+1 Culture] <after discovering [Flight]>",
+			"Unbuildable <in [resource] tiles>",
+			"Pillaging this improvement yields approximately [+20 Gold]"
+		],
+		"shortcutKey": "C"
+	},
+	{
+		"name": "Fortified Farm",
+		"replaces": "Farm",
+		"uniqueTo": "Enclavers",
+		"terrainsCanBeBuiltOn": ["Badlands", "Desert", "Swamp"],
+		"food": 1,
+		"production": 1,
+		"turnsToBuild": 7,
+		"uniques": [
+			"Food source",
+			"Can also be built on tiles adjacent to fresh water",
+			"[+1 Production] <in [Hill] tiles>",
+			"[+1 Production] <after adopting [Adaptation Complete]>",
+			"[+1 Food] <after discovering [Ecology]>",
+			"[+1 Food] <after discovering [Land Remediation]>",
+			"Gives a defensive bonus of [50]%",
+			"Adjacent enemy units ending their turn take [10] damage",
+			"Cannot be built on [Mountain] tiles",
+			"Cannot be built on [Mountain Tunnel] tiles",
+			"Cannot be built on [Water] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+			"Can only be built to improve a resource <in [Bonus resource] tiles>",
+			"Pillaging this improvement yields approximately [+10 Food, +10 Gold]"
+		],
+		"shortcutKey": "F"
+	},
+
+	//City-States
+	{
+		"name": "Preservator", //borrowed from Bamboolord, technically not a UI but only The Pax UUs can build it
+		"culture": 1,
+		"science": 1,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Tile provides yield without assigned population",
+			"Ensures a minimum tile yield of [+1 Production]",
+			"[+2 Food, +2 Gold] <in [Fallout] tiles>",
+			"[+2 Food, +2 Gold] <in [Toxic Waste] tiles>",
+			"[+2 Science] <in [Encrypted Data] tiles>",
+			"[+1 Culture] <after discovering [Education]>",
+			"[+1 Production] <after discovering [Laboratory]>",
+			"[+1 Science] <after discovering [Decryption]>",
+			"Does not need removal of [Forest]",
+			"Does not need removal of [Jungle]",
+			"Does not need removal of [Toxic Waste]",
+			"Does not need removal of [Fallout]",
+			"Provides [1] [Coal] <in [{non-[Forest]} {non-[Jungle]} {non-[Fallout]} {Hill}] tiles>",
+			"Provides [1] [Artifacts] <in [{Jungle} {Wasteland}] tiles>",
+			"Provides [1] [Electronics] <in [{Jungle} {Badlands}] tiles>",
+			"Provides [1] [Machine Parts] <in [{Jungle} {Tundra}] tiles>",
+			"Provides [1] [Artifacts] <in [{Jungle} {Desert}] tiles>",
+			"Provides [1] [Machine Parts] <in [{Jungle} {Permafrost}] tiles>",
+			"Provides [1] [Aluminum] <in [{Featureless} {Permafrost}] tiles>",
+			"Provides [1] [Oil] <in [{Featureless} {Tundra}] tiles>",
+			"Cannot be built on [Water] tiles",
+			"Cannot be built on [Impeded terrain] tiles",
+			"Cannot be built on [Coal] tiles",
+			"Cannot be built on [Oil] tiles",
+			"Cannot be built on [Aluminum] tiles",
+			"Cannot be built on [Uranium] tiles",
+			"Cannot be built on [Weapons] tiles",
+			"Cannot be built on [Power] tiles",
+			"Can only be built to improve a resource <in [Bonus resource] tiles>",
+			"Can only be built to improve a resource <in [Luxury resource] tiles>",
+			"Pillaging this improvement yields approximately [+20 Science]"
+		]
+	},
+
+	//Unbuildable improvements
+	{
+		"name": "Survivor camp",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Can be built outside your borders",
+			"Unpillagable",
+			"Provides a random bonus when entered"
+		]
+	}
+]
