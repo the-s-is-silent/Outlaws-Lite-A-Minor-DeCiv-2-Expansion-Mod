@@ -16,7 +16,8 @@
 			"[+1 Culture] <after discovering [Social Engineering]>",
 			"Removes removable features when built",
 			"Will not be replaced by automated units",
-			"Unbuildable <in [Impeded terrain] tiles>",
+			"Unbuildable <in [Mountain] tiles>",
+			"Unbuildable <in [Mountain Tunnel] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -39,7 +40,8 @@
 			"[+2 Gold] <after discovering [Globalization]>",
 			"Removes removable features when built",
 			"Will not be replaced by automated units",
-			"Unbuildable <in [Impeded terrain] tiles>",
+			"Unbuildable <in [Mountain] tiles>",
+			"Unbuildable <in [Mountain Tunnel] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -137,7 +139,8 @@
 			"Provides [1] [Aluminum] <in [{Featureless} {Permafrost}] tiles>",
 			"Provides [1] [Oil] <in [{Featureless} {Tundra}] tiles>",
 			"Cannot be built on [Water] tiles",
-			"Cannot be built on [Impeded terrain] tiles",
+			"Cannot be built on [Mountain] tiles",
+			"Cannot be built on [Mountain Tunnel] tiles",
 			"Cannot be built on [Coal] tiles",
 			"Cannot be built on [Oil] tiles",
 			"Cannot be built on [Aluminum] tiles",

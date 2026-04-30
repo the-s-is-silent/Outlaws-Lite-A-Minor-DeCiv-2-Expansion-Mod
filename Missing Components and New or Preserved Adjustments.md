@@ -3,6 +3,7 @@ In addition to cutting out nearly all content from the main version of Outlaws a
 #### Excluded Modifiers (and all support for them):
 - City Defense
 - Russian Unifier
+- Worship Center
 
 #### Excluded Components:
 Deseret:

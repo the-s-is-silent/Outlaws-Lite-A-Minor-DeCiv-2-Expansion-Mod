@@ -131,7 +131,6 @@
 		"style": "Corporate",
 		"uniqueName": "Custodians of the World's Water",
 		"uniques": [
-			"Russian Unifier",
 			"[+50]% Production when constructing [Gold] buildings [in all cities]",
 			"[+100]% Yield from every [Moisture trap]",
 			"[+100]% Yield from every [Water pump]",
@@ -188,7 +187,6 @@
 		"style": "Military",
 		"uniqueName": "One Party, One Leader, One Ideology",
 		"uniques": [
-			"Russian Unifier",
 			"[-50]% construction time for [All Road] improvements",
 			"[-25]% maintenance on road & railroads",
 			"[+15]% [Production] [in all cities] <for [10] turns> <upon declaring war on [Major] Civilizations>",
@@ -321,7 +319,7 @@
 			"[+1 Production, +1 Science] from every [Forge]",
 			"[+1 Production, +1 Science] from every [Blast Furnace]",
 			"[+1 Production, +1 Science] from every [Factory]",
-			"[+1 Production, +1 Science] from every [Materials Recovery Facility]",
+			"[+1 Production, +1 Science] from every [Plastics Reprocessor]",
 			"[Great Engineer] is earned [33]% faster",
 			"Starts with [Construction]",
 			"Starts with [Iron Working]",

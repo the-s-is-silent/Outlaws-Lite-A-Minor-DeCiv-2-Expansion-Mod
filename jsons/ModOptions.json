@@ -5,8 +5,9 @@
 		"Five-Year Plan", "Grand Temple", "Mormon Monument"
 	],
 	"uniques": [
-		"Suppress warning [is supposed to automatically upgrade]",
-		"Suppress warning [is more expensive to calculate than]",
+		"Suppress warning [*is supposed to automatically upgrade*]",
+		"Suppress warning [*which has no stats, preventing unit automation*]",
+		"Suppress warning [*is more expensive to calculate than*]",
 		"Mod requires [Deciv 2]",
         "Mod is incompatible with [Outlaws of the Wastes]"
 	]

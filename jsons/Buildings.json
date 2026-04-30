@@ -213,10 +213,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"[+10]% growth [in all cities]",
-			"[+2 Production] from every [Sacred Cave]",
-			"[+2 Production] from every [Tabernacle]",
-			"[+2 Production] from every [Virtual Tabernacle]",
-			"[+2 Production] from every [Worship Center]",
+			"[+2 Production] from all [{non-[Wonder]} {Faith}] buildings",
 			"[+2 Science, +2 Culture] from every [Great Improvement]",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built <in [Capital] cities>",
@@ -1694,9 +1691,16 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"[+1 Culture] per [4] population [in all cities]",
-			"[-5]% Unhappiness from [Population] [in all cities]",
+			"[-10]% Unhappiness from [Population] [in all cities]",
 			"[-15]% enemy spy effectiveness [in all cities]",
-			"[+25]% Production when constructing [City Defense] buildings [in all cities]",
+			"Comment [+25% Production when constructing defensive buildings in all cities]",
+			"[+25]% Production when constructing [Walls] buildings [in this city] <hidden from users>",
+			"[+25]% Production when constructing [Defensive Emplacements] buildings [in this city] <hidden from users>",
+			"[+25]% Production when constructing [Choke Points] buildings [in this city] <hidden from users>",
+			"[+25]% Production when constructing [Hardened Defenses] buildings [in this city] <hidden from users>",
+			"[+25]% Production when constructing [Battery] buildings [in this city] <hidden from users>",
+			"[+25]% Production when constructing [Bunker] buildings [in this city] <hidden from users>",
+			"[+25]% Production when constructing [Active Denial System] buildings [in this city] <hidden from users>",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Junta]>",
@@ -1771,7 +1775,7 @@
 			"[+25]% Great Person generation [in all cities connected to capital]",
 			"[-5]% Unhappiness from [Population] [in all cities connected to capital]",
 			"Can only be built <in [Capital] cities>",
-			"Only available <in cities without a [Politburo]>",
+			"Only available <in cities without a [Troika]>",
 			"Destroyed when the city is captured"
 		]
 	},
@@ -1783,8 +1787,8 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"[+100]% [Slaves] resource production",
-			"[+3 Food, +3 Production] from every [Corrective Colony]",
-			"[+10]% [Food] from every [Corrective Colony]",
+			"[+3 Food, +3 Production] from every [Prison Camp]",
+			"[+10]% [Food] from every [Prison Camp]",
 			"[+3 Production] from every [Gulag]",
 			"[+3 Production] from every [Listening Post]",
 			"Can only be built <in [Capital] cities>",
@@ -2182,7 +2186,7 @@
 		"maintenance": 3,
 		"specialistSlots": {"Engineer": 2},
 		"uniques": [
-			"All newly-trained [Personnel] units [in this city] gain the [Ballistic Weave] promotion",
+			"[Personnel] units gain the [Ballistic Weave] promotion",
 			"[+5 Production] [in this city] <with [Power]>",
 			"Only available <in cities with a [Refurbished Textile Mill]>",
 			"Provides [1] [Advanced Fabrics]",
@@ -2241,7 +2245,7 @@
 	},
 	{
 		"name": "Regional Hockey Federation",
-		"replaces": "Defense Directorate",
+		"replaces": "Town Hall",
 		"uniqueTo": "Hockeytown",
 		"cityHealth": 50,
 		"culture": 2,
