@@ -74,14 +74,16 @@ Proklyatyye:
 - Verkhovny Sovet (formerly Five-Year Plan)
 
 #### Other Adjustments:
-- Church of the Water Tsaritsa is now The Harbingers' favored religion
 - Continental Generals are now expended when creating Citadels; however, they start with free XP when spawned from the third era onward
 - Cut Away the Self II now generates 2 Culture per turn
+- Deseret's UA buffed to claim 8 additional tiles per city instead of 4
 - Mission to Isolationists is now a standalone national wonder and no longer gives a free religious building in its city
     - Deseret can no longer build Ally with Isolationists or Annex Isolationists
 - Mounted and Mounted Ranged are no longer separate unit types
 - Neutron Bombs are now Missile units (Atomic Bombers do not exist in this mod)
-- Nowa Polska's unit training speed boost at the onset of defensive wars increased to 50%
+- Nowa Polska gets two massive buffs in its UA:
+    - Instead of a 10% discount on adopting policies, they get a free policy with every era advance, just like OG Civ 5 Poland
+    - Unit training speed boost at the onset of defensive wars increased to 50%
 - Several UUs have been weakened to reflect the lack of mid/late-game unit strength rebalancing
 - Siege Nukes do not exist in this mod
 - Some adjustments to Personality Values have been made to account for the absence of policy rebalancing
